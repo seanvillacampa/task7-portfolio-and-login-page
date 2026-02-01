@@ -1,0 +1,51 @@
+
+
+#home{
+
+height: 100vh;
+color: white;
+background: linear-gradient(to bottom, darkviolet, pink);
+}
+
+#skills{
+
+margin-top: 70px;
+
+}
+
+
+
+#contain{
+
+text-align: center;
+margin-top: 200px;
+
+}
+
+#containerhome{
+
+padding-top: 150px;
+
+}
+#about{
+
+    margin-top: 20px;
+
+}
+
+
+#homee, #aboutt, #skillss, #projectss, #contactt{
+
+    color: white;
+}
+
+#htmll, #csss, #bootstrapp, #jss{
+
+    background-color: skyblue;
+}
+
+#project1, #project2, #project3{
+
+background-color: brown;
+
+}
